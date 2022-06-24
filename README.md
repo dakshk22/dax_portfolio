@@ -2,7 +2,7 @@
 analytics portfolio
 
 
-[project 1] : covid 19 DATASET data analysis project
+# [project 1] : covid 19 DATASET data analysis project
 
 This is the first project i did during my final year in undergraduate.
 
@@ -15,7 +15,7 @@ This data is available as a CSV file , downloaded from Kaggle.
 
 
 
-[project 2] : US road accident (2016-2021) DATASET data analysis project which is having 4.2 million of data
+# [project 2] : US road accident (2016-2021) DATASET data analysis project which is having 4.2 million of data
 the data is taken from kaggle website.
 the data cleaning and visualisation is done with python libraries.
 
@@ -26,7 +26,7 @@ the data cleaning and visualisation is done with python libraries.
 
 
 
-[project 3] : disney + DATASET data analysis project
+# [project 3] : disney + DATASET data analysis project
 
 The project is on the data gathered from the disney+ through kaggle to get the insides of how many series as well as movies was released in the till year 2020 in the platform.
 
