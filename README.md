@@ -10,6 +10,10 @@ We have taken a small dataset of Covid - 19 , just for your understaning purpose
 The data used here is till 29 - April - 2020 and has records as on 29 - April - 2020 .
 This data is available as a CSV file , downloaded from Kaggle.
 
+the data is sorted in ascending order and the data is free from all the anomalies.
+
+![Screenshot 2022-06-24 142336](https://user-images.githubusercontent.com/97302476/175500706-5ba86c78-d9b0-4893-b8e0-31bc6a4945b7.png)
+
 
 
 
