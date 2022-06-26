@@ -30,9 +30,9 @@ the data cleaning and visualisation is done with python libraries.
 
 
 
-# [project 3] : disney + DATASET data analysis project
+# [project 3] : disney + DATASET data analysis project 2019 - 2021
 
-The project is on the data gathered from the disney+ through kaggle to get the insides of how many series as well as movies was released in the till year 2020 in the platform.
+The project is on the data gathered from the disney+ through kaggle to get the insides of how many series as well as movies was released in the platform between 2019-2021 in the platform.
 
 You can see that Disney focuses more on Movies than TV Shows. Maybe because Disney has an audience that prefers movies over TV Shows.
 ![1 0SBvP2GzQnGRc0ByX-XCeA](https://user-images.githubusercontent.com/97302476/175484330-a71d7086-5639-4505-81df-6ffa96c07736.png)
