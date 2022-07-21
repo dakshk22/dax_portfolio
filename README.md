@@ -19,10 +19,11 @@ the data is sorted in ascending order and the data is free from all the anomalie
 
 
 
-# [Project 2] : US Road Accident (2016-2021) DATASET data analysis project which is having 4.2 million of data
-the data is taken from kaggle website.
-the data cleaning and visualisation is done with python libraries.
+# [Project 2] : US Road Accident (2016-2021) DATASET data analysis project which is having 4.2 million of data the data is taken from kaggle website.
 
+The project is based on the dataset of number of accident in united states of america in between 2016-2021 in different states of the country and also prediction about the number of accident that can took placed if the precautions are not taken.
+the data cleaning and visualisation is done with python libraries.
+like pandas ,numpy, matplotlib, seaborn, tensorflow.
 
 ![__results___23_0](https://user-images.githubusercontent.com/97302476/175494772-f841790b-0081-4d17-aecc-4798be80f3be.png)
 
