@@ -41,3 +41,6 @@ You can see that Disney focuses more on Movies than TV Shows. Maybe because Disn
 In the Year 2019, Disney+ has added more than 600 movies to their platform. But after that, the graph of movie addition is declined may be due to covid-19 problem. I don’t see a much larger difference in the addition of TV shows to their platform over the years. Maybe because Disney focuses more on Movies than TV Shows.
 ![1 dMpmX_qzXT80ixMvmjuD6w](https://user-images.githubusercontent.com/97302476/175484365-54938bdb-3f33-425b-8e69-6817dbb8e203.png)
 
+Disney+ dashboard created in powerBI
+![Screenshot 2022-07-28 134059](https://user-images.githubusercontent.com/97302476/182329837-527fe159-3dc0-4703-93ad-236acc33141b.png)
+
