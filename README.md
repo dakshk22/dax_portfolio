@@ -96,7 +96,11 @@ Check the data from dataset.
 ![Screenshot 2022-11-22 134811](https://user-images.githubusercontent.com/97302476/203262136-c709a47e-563f-4946-b1f4-aa66f2fb8797.png)
 
 ![Screenshot 2022-11-22 134900](https://user-images.githubusercontent.com/97302476/203262143-24f5ad16-8ee7-4804-b1c7-edaf58dfd163.png)
+
+month wise data
 ![Screenshot 2022-11-22 134928](https://user-images.githubusercontent.com/97302476/203262154-2c04801d-f863-4e37-af27-d14309d66402.png)
+
+year wise data
 ![Screenshot 2022-11-22 134950](https://user-images.githubusercontent.com/97302476/203262156-337c2af8-3287-4e84-b366-d71bb84895d8.png)
 
 power BI report of the data
