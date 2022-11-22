@@ -84,3 +84,21 @@ Conclusions
     14.From the correlation heatmap we see that the lattitude and longitude features have higher correlation with the target as compared to the other features.
 
 
+# [Project 5] : Amazon sales data analysis project
+
+Project is the part of ineuron data analysis training.
+
+problem statement:
+
+Sales management has gained importance to meet increasing competition and the needfor improved methods of distribution to reduce cost and to increase profits. Salesmanagement today is the most important function in a commercial and businessenterprise.Doing Amazon dataset and find for Sales-trend -> month wise , year wise , yearly_month wise.
+
+Check the data from dataset.
+![Screenshot 2022-11-22 134811](https://user-images.githubusercontent.com/97302476/203262136-c709a47e-563f-4946-b1f4-aa66f2fb8797.png)
+
+![Screenshot 2022-11-22 134900](https://user-images.githubusercontent.com/97302476/203262143-24f5ad16-8ee7-4804-b1c7-edaf58dfd163.png)
+![Screenshot 2022-11-22 134928](https://user-images.githubusercontent.com/97302476/203262154-2c04801d-f863-4e37-af27-d14309d66402.png)
+![Screenshot 2022-11-22 134950](https://user-images.githubusercontent.com/97302476/203262156-337c2af8-3287-4e84-b366-d71bb84895d8.png)
+
+power BI report of the data
+![Screenshot 2022-11-22 135050](https://user-images.githubusercontent.com/97302476/203262121-12ba079c-289e-4a7a-8890-cc2994b18329.png)
+
