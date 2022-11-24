@@ -104,5 +104,6 @@ year wise data
 ![Screenshot 2022-11-22 134950](https://user-images.githubusercontent.com/97302476/203262156-337c2af8-3287-4e84-b366-d71bb84895d8.png)
 
 power BI report of the data
-![Screenshot 2022-11-22 135050](https://user-images.githubusercontent.com/97302476/203262121-12ba079c-289e-4a7a-8890-cc2994b18329.png)
+![Screenshot 2022-11-24 121909](https://user-images.githubusercontent.com/97302476/203713531-dfcfcbf6-d9a8-488e-8b7a-359fde06e92c.png)
+
 
