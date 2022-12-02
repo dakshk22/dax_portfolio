@@ -43,10 +43,11 @@ In the Year 2019, Disney+ has added more than 600 movies to their platform. But 
 ![1 dMpmX_qzXT80ixMvmjuD6w](https://user-images.githubusercontent.com/97302476/175484365-54938bdb-3f33-425b-8e69-6817dbb8e203.png)
 
 Disney+ dashboard created in powerBI
-![Screenshot 2022-07-28 134059](https://user-images.githubusercontent.com/97302476/182329837-527fe159-3dc0-4703-93ad-236acc33141b.png)
+![Screenshot 2022-12-02 133722](https://user-images.githubusercontent.com/97302476/205245866-18143c2f-7c5d-43ca-8b1b-64c8a91ceeaf.png)
 
 
-# [Project 4] : newyork taxi fare prediction project
+
+# [Project 4] : NY taxi fare prediction project
 
 The project is done under the machine learning certification course from analyticsvidya. 
 
