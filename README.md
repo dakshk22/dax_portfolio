@@ -1,8 +1,12 @@
 # dax_portfolio
 Analytics portfolio
 
-<html>
-    <head><meta name="google-site-verification" content="UO3yOzmCZWe7QhDlD_J613UmxWbykfFPfxmeQfrORyA" /></head></html>
+    <html>
+    <head>
+    <meta name="google-site-verification" content="UO3yOzmCZWe7QhDlD_J613UmxWbykfFPfxmeQfrORyA" />
+    </head>
+    </html>
+    
 # [Project 1] : COVID 19 DATASET data analysis project
 
 This is the first project i did during my final year in undergraduate.
