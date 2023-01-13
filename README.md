@@ -15,6 +15,7 @@ the data is sorted in ascending order and the data is free from all the anomalie
 
 ![Screenshot 2022-06-24 142336](https://user-images.githubusercontent.com/97302476/175500706-5ba86c78-d9b0-4893-b8e0-31bc6a4945b7.png)
 
+![covid19](https://user-images.githubusercontent.com/97302476/212250773-3c004d38-4511-4f28-b137-1dfb74279233.png)
 
 
 
@@ -29,6 +30,7 @@ like pandas ,numpy, matplotlib, seaborn, tensorflow.
 ![__results___23_0](https://user-images.githubusercontent.com/97302476/175494772-f841790b-0081-4d17-aecc-4798be80f3be.png)
 
 
+![Screenshot 2023-01-13 113513](https://user-images.githubusercontent.com/97302476/212250860-7db18847-a963-477b-909a-37c3b82d78d7.png)
 
 
 
