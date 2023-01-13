@@ -30,7 +30,6 @@ like pandas ,numpy, matplotlib, seaborn, tensorflow.
 ![__results___23_0](https://user-images.githubusercontent.com/97302476/175494772-f841790b-0081-4d17-aecc-4798be80f3be.png)
 
 
-![Screenshot 2023-01-13 113513](https://user-images.githubusercontent.com/97302476/212250860-7db18847-a963-477b-909a-37c3b82d78d7.png)
 
 
 
@@ -110,3 +109,6 @@ year wise data
 power BI report of the data
 ![Screenshot 2022-11-24 121909](https://user-images.githubusercontent.com/97302476/203713531-dfcfcbf6-d9a8-488e-8b7a-359fde06e92c.png)
 
+# [Project 6] : adidas sales data power BI report 
+
+![Screenshot 2023-01-13 113513](https://user-images.githubusercontent.com/97302476/212250860-7db18847-a963-477b-909a-37c3b82d78d7.png)
