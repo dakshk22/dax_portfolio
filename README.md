@@ -111,4 +111,5 @@ power BI report of the data
 
 # [Project 6] : adidas sales data power BI report 
 
-![Screenshot 2023-01-13 113513](https://user-images.githubusercontent.com/97302476/212250860-7db18847-a963-477b-909a-37c3b82d78d7.png)
+![Screenshot 2023-01-23 120605](https://user-images.githubusercontent.com/97302476/213979554-e03b54e9-4689-4105-8177-288b8d3413b0.png)
+
