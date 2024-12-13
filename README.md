@@ -109,7 +109,29 @@ year wise data
 power BI report of the data
 ![Screenshot 2022-11-24 121909](https://user-images.githubusercontent.com/97302476/203713531-dfcfcbf6-d9a8-488e-8b7a-359fde06e92c.png)
 
-# [Project 6] : adidas sales data power BI report 
+# [Project 6] : Adidas sales data power BI report 
 
 ![Screenshot 2023-01-23 120605](https://user-images.githubusercontent.com/97302476/213979554-e03b54e9-4689-4105-8177-288b8d3413b0.png)
+
+# [Project 7] : Election commision of india (ECI) Electoral bond data report
+
+Project is based on the data released by government of india before the general election 2024.
+
+On 15th February, the Supreme Court of India scrapped the Electoral Bond Scheme introduced in 2018, which allowed anonymous political funding, and ordered the disclosure of donors, the amount they donated, and the recipients. The Election Commission published the electoral bonds data shared by SBI on its website. The data released showed the details of the purchase of electoral bonds by companies and individuals of denominations between Rs 1,000 to Rs 1 crore since April 12, 2019.
+
+What is an Electoral Bond?
+
+Electoral bonds are instruments/securities that are used to donate funds to political parties. Electoral Bonds may be purchased by a person who is a citizen of India or incorporated or established in India.
+A person being an individual can buy Electoral Bonds, either singly or jointly with other individuals.
+Only the Political Parties registered under Section 29A of the Representation of the People Act, 1951 (43 of 1951) and which secured not less than one percent of the votes polled in the last General Election to the House of the People or the Legislative Assembly of the State, shall be eligible to receive the Electoral Bonds.
+
+In this Data Analysis Project, I have delved deep into the data and found some insights published in public by the State Bank of India right after that.
+
+![Screenshot 2024-12-13 113905](https://github.com/user-attachments/assets/62577418-487d-4498-88d5-e05d78e8c076)
+
+![Screenshot 2024-12-13 1127201](https://github.com/user-attachments/assets/c79f47f0-0e59-4ba0-831d-1bdefe71c4fd)
+
+
+
+https://github.com/user-attachments/assets/147a66d7-38a8-4b1a-bebc-55330696d459
 
