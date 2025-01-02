@@ -135,3 +135,9 @@ In this Data Analysis Project, I have delved deep into the data and found some i
 
 https://github.com/user-attachments/assets/147a66d7-38a8-4b1a-bebc-55330696d459
 
+# [Project 7] : Spotify 2024 wrapped data report
+
+Collected my own data from spotify to make the wrapped of 2024 with the help of microsoft power BI and let to know how spotify worked and give specific info about the most played tracks and artists.
+
+![Screenshot 2025-01-02 115306](https://github.com/user-attachments/assets/9823cc96-11ed-43f9-963e-b4276afa4099)
+
