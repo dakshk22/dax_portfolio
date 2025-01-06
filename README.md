@@ -138,6 +138,9 @@ https://github.com/user-attachments/assets/147a66d7-38a8-4b1a-bebc-55330696d459
 # [Project 7] : Spotify 2024 wrapped data report
 
 Collected my own data from spotify to make the wrapped of 2024 with the help of microsoft power BI and let to know how spotify worked and give specific info about the most played tracks and artists.
+The key points of the report is to show how spotify make there spotify wrapped of every user and what they know how and which type of songs are recommended to the particular user in the future.
 
 ![Screenshot 2025-01-02 115306](https://github.com/user-attachments/assets/9823cc96-11ed-43f9-963e-b4276afa4099)
+
+![Screenshot 2025-01-06 131526](https://github.com/user-attachments/assets/2609c4cd-16d6-478a-8616-28942da8293b)
 
